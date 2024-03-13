@@ -1,4 +1,4 @@
 def helloworld(out):
-    '''Demonstrates HellWorld!!!
-    docstrins are beautiful'''
+    '''Demonstrates HellWorld!!!'''
+    
     out.write("Hello World!!!")
