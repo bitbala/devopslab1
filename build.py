@@ -12,5 +12,5 @@ default_task = "publish"
 
 @init
 def set_properties(project):
+    # Add build dependencies here if necessary
     project.build_depends_on("mockito")
-
